@@ -1,4 +1,4 @@
-import { TelemetryPoint } from '../packages/shared/src/types';
+import { TelemetryPoint } from '@revx/shared';
 
 export interface ObdSimulatorConfig {
   hasTroubleCode?: boolean;
